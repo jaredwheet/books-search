@@ -1,0 +1,8 @@
+.jumbotron {
+  padding: 100px;   
+  font-family: 'Acme', sans-serif;
+  color: white;
+  background-image: url("https://image.freepik.com/free-photo/stack-books-black-background_23-2147846050.jpg");
+  background-size: cover;
+
+}
